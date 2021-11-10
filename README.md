@@ -1,6 +1,6 @@
 # Reference embedding server
 
-Servers encoding embeddings (feature vectors) for given input sentences.
+Flask server to calculate embeddings (feature vectors) for given input sentences. Uses the [SentenceTransformers](https://www.sbert.net/) library.
 
 ## Installation
 
